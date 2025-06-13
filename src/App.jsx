@@ -3,6 +3,8 @@ import "./App.css";
 import NavbarComponents from "./components/NavbarComponents";
 import Sidebar from "./components/Sidebar.jsx";
 
+// src
+
 function App() {
   return (
     <>
